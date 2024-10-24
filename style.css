@@ -23,17 +23,9 @@ header {
     padding: 0;
 }
 
-body {
-    background-color: var(--cor-de-fundo);
-    color: var(--branco-principal);
-}
 
 .choco {
     font-size: 92px;
 }
 
-.principal {
-    text-align: center;
-  
-}
    
