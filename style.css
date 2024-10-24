@@ -12,5 +12,9 @@ body {
     height: 100vh;
 }
 
-
+header {
+    background-color: var(--primary-color);
+    text-align: center;
+    padding: 1px;
+}
    
